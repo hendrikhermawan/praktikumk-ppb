@@ -2,4 +2,3 @@ bismillah pinter ini didalam halaman_home
 
 commit pertama
 
-commit kedua
